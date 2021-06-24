@@ -1,6 +1,6 @@
 # @jpexposito
 
-<img align="center" src="images/fondo-github.png" alt="Repositorio @jpexposito">
+<img align="center" src="https://github.com/jpexposito/jpexposito/blob/main/imagen/fondo-github.png" alt="Repositorio @jpexposito">
 
 Este repositorio esta destinado a albergar los distintos ejemplos de código que se expongan en [jpexposito.com](https://jpexposito.com/), web personal, en diferentes lenguajes.
 
