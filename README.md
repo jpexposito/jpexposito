@@ -17,7 +17,17 @@ Me definiría como un Ingeniero Informático de vocación y que no se imagina en
 Podría definir que son dos ejes fundamentales en mi desarrollo como persona y como profesional. A esto voy a añadir un tercer elemento, y es  ***REALIZAR LAS COSAS CON CARIÑO***, para que las entienda mi abuela y las disfrute mi hijo.
 
 <div align="center">
-    <img src="imagen/construccion.png" width="30%" height="30%"alt="@jpexposito web personal">
+    <img src="imagen/construccion.png" width="30%" height="30%"alt="@jpexposito en construccion">
     </br>
     <a href="https://www.freepng.es/">Visit Freepng</a>
 </div>
+
+## Objetivo
+El objetivo de estos respositorios es compartir conocimiento, el mismo que he estraído de internet o de los distintos proyectos en los que he participado.
+
+<div align="center">
+    <img src="imagen/compartir.png" width="20%" height="20%"alt="@jpexposito compartir">
+    </br>
+    <a href="https://www.freepng.es/">Visit Freepng</a>
+</div>
+
