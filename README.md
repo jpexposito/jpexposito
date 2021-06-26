@@ -6,7 +6,7 @@ Este repositorio esta destinado a albergar los distintos ejemplos de código que
 
 <div align="center">
    <a href="https://jpexposito.com">
-    <img src="imagen/logo-web-nar-ap.png" width="70%" height="70%" alt="@jpexposito web personal">
+    <img src="imagen/logo-web-nar-ap.png" width="30%" height="30%" alt="@jpexposito web personal">
    </a>
 </div>
 
@@ -17,7 +17,7 @@ Me definiría como un Ingeniero Informático de vocación y que no se imagina en
 Podría definir que son dos ejes fundamentales en mi desarrollo como persona y como profesional. A esto voy a añadir un tercer elemento, y es  ***REALIZAR LAS COSAS CON CARIÑO***, para que las entienda mi abuela y las disfrute mi hijo.
 
 <div align="center">
-    <img src="imagen/construccion.png" width="50%" height="50%"alt="@jpexposito web personal">
+    <img src="imagen/construccion.png" width="30%" height="30%"alt="@jpexposito web personal">
     </br>
     <a href="https://www.freepng.es/">Visit Freepng</a>
 </div>
