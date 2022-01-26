@@ -4,6 +4,14 @@
 
 <img align="center" src="imagen/fondo-github.png" alt="Repositorio @jpexposito">
 
+## Siempre Aprendiendo!
+
+**Espero que alguno de mis proyectos te pueda ayudar.! 👋** &nbsp; 
+
+
+<a href="https://www.buymeacoffee.com/jpexposito" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+
+
 Este repositorio esta destinado a albergar los distintos ejemplos de código que se expongan en [jpexposito.com](https://jpexposito.com/), web personal, en diferentes lenguajes.
 
 <div align="center">
