@@ -45,7 +45,7 @@ El objetivo de estos respositorios es compartir conocimiento, el mismo que he es
 
 <p align="left">
   <a href="https://twitter.com/jpexposito" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jpexposito" height="30" width="40" /></a>
-  <a href="https://linkedin.com/in/https://es.linkedin.com/in/jperexposito" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://es.linkedin.com/in/jperexposito" height="30" width="40" /></a>
+  <a href="https://es.linkedin.com/in/jperexposito" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://es.linkedin.com/in/jperexposito" height="30" width="40" /></a>
 </p>   
 
 ## Lenguajes
